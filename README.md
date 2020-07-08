@@ -18,6 +18,7 @@ A curated list of Bolero samples, community projects and other resources.
 
  * [Try F# on WebAssembly](https://github.com/fsbolero/TryFSharpOnWasm) - a small proof of concept to run the F# compiler in the browser with Bolero
  * [TodoMVC](https://github.com/fsbolero/TodoMVC) - TodoMVC with Bolero
+ * [Game of Life](https://github.com/deviousasti/gameoflife-wasm) - A game of life implementation in Bolero Elmish 
 
 ## Blogs
 
